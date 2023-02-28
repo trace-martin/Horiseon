@@ -1,4 +1,4 @@
-<h1>Horiseon Social Solution Services - Challenge 1</h1><br>
+<h1>Horiseon Social Solution Services - Challenge 1</h1>
 
 ## Deployed page
 
