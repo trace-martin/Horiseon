@@ -1,6 +1,9 @@
 <h1>Horiseon Social Solution Services - Challenge 1</h1><br><br>
-# Deployed page
+
+## Deployed page
+
 https://trace-martin.github.io/Horiseon-social-solutions/<br><br>
+
 ## Description
 This webpage was created to help teach myself and others about semantic html. This project was also used to show how to condense/combine classes and elements together in the CSS.<br><br>
 <strong>Semantic HTML</strong> refers to the "meaning" versus its presentation. Each "semantic" elelment clearly labels or describes its intended purporse better to both, the web and the developer. Being more semantic in your coding will help people with disabilities access your site more efficiently. The more semantic your website the better SEO you can recieve.<br><br>
